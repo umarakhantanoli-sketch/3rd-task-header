@@ -1,0 +1,33 @@
+.top{
+ display: flex;
+     align-items: center; 
+     justify-content: space-between;  
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:darkred;
+}
+
+ul li {
+  float: inline-end;
+  margin-right: 30px;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.right1 h2{
+  color: darkred;
+  text-decoration:underline black ;
+    text-decoration-thickness: 5px;
+
+
+}
+
